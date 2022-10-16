@@ -44,3 +44,4 @@ public struct NetworkInterface: Encodable {
 }
 
 extension NetworkInterface: Equatable {}
+extension NetworkInterface: Hashable {}
