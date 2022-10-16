@@ -1,3 +1,3 @@
 # NetInfo
 
-A description of this package.
+A simple library for returning available network interfaces on the device.
